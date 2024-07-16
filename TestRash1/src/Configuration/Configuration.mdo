@@ -33,4 +33,5 @@
   <defaultRoles>Role.Test1_ОсновнаяРоль</defaultRoles>
   <compatibilityMode>8.3.24</compatibilityMode>
   <roles>Role.Test1_ОсновнаяРоль</roles>
+  <catalogs>Catalog.Test1_СправочникДляТеста</catalogs>
 </mdclass:Configuration>
