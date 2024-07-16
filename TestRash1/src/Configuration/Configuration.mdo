@@ -34,5 +34,6 @@
   <compatibilityMode>8.3.24</compatibilityMode>
   <roles>Role.Test1_ОсновнаяРоль</roles>
   <constants>Constant.Test1_Константа</constants>
+  <catalogs>Catalog.Test1_второйСправочник</catalogs>
   <catalogs>Catalog.Test1_СправочникДляТеста</catalogs>
 </mdclass:Configuration>
